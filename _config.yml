@@ -1,6 +1,5 @@
 # Site Settings
-url: hs-mxmx.github.io
-baseurl: /hs-mxmx.github.io
+baseurl: ""
 
 # Features Setting
 # Turn subpages on or off
