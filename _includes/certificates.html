@@ -1,0 +1,8 @@
+{% if site.data.profile.certificates %}
+  <p class="title">{{ site.theme_settings.certificates_title }}</p>
+  <ul class="certificates-list">
+    {% for award in site.data.profile.certificates %}
+    <li class="award">{{ award }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
