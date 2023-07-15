@@ -1,0 +1,62 @@
+image: assets/img/avatar.png
+username: Daniel Perez Moreno
+description: I'm still figuring out how to stop spending hours in front of the computer. Enthusiastic cybersecurity professional with experience in DevSecOps, Software Development and Pentesting.
+experience: # Remove for hiding the experience section
+  - start: 01/2020
+    end: 01/2021
+    experience : Software Developer - Telefonica
+  - start: 02/2022
+    end: 05/2022
+    experience : Cybersecurity Engineer - INDRA
+  - start: 05/2022
+    end: 05/2023
+    experience : DevSecOps | Source Code Analyst - GMV
+  - start: 05/2023
+    end: Current
+    experience : Cybersecurity Engineer - TuLotero
+interests: # Remove for hiding the interests section
+  - Software Design (Design Review)
+  - Testing (Security Testing & Code Review)
+  - Automated Deployment and Maintenance (DevOps)
+  - Windows and Linux Advanced Penetration Testing
+  - Web Application Penetration Testing
+  - Network Penetration Testing
+  - Vulnerability Assessment, Reporting and Consulting
+  - Deploying, modifying, configuring, and utilizing various tools such as IDSs, SIEMs, WAFs, firewalls
+  - Conducting continuous security monitoring and analysis
+skills: # Remove for hiding the skills section
+  - skill: (Development) Python, Java, Shell Script, Bash
+  - skill: (Source Code Analysis) C, JavaScript, Swift, Kotlin, PHP
+  - skill: (Infrastructure) Ansible, Docker, Kubernetes, Helm
+  - skill: Windows, Ubuntu, Debian (Kali, ParrotOS)
+  - skill: Bamboo, Jira, Confluence, BitBucket, Docker, Jenkins, Git
+  - skill: CheckMarx, SonarQube, OWASP Zap (SAST, SCA, RASP)
+  - skill: SSDLC, OWASP, SANS, MITTRE ATT&CK, NIST, CWE, CVE
+  - skill: Modern web security, quality and security practices
+  - skill: Understanding of Compliance and Regulatory requirements (GDPR, PCI DSS, ISO 27001)
+social:
+  email: hsmxmx@proton.me
+  orcid: 
+  scholar: 
+  publons: 
+  research_gate: 
+  dblp:  # Full URL
+  semantic_scholar:  # Full URL
+  linkedin: https://www.linkedin.com/in/daniel-p%C3%A9rez-moreno-0b5908177/?locale=en_US # Full URL 
+  github: hs-mxmx
+  gitlab: hsmxmx
+  bitbucket:
+  google_plus:
+  mastodon:
+  twitter:
+  youtube:
+  facebook:
+  instagram:
+certificates: # Remove for hiding the certificates section
+  - CompTia Security+ (Sec+)
+  - Certified AppSec Practitioner (CAP)
+  - eLearnSecurity Junior Penetration Tester v2 (eJPTv2)
+  - eLearnSecurity Certified Professional Penetration Tester v2 (eCPPTv2)
+  - Ethical Hacking and Pen Testing (Cybrary - Course)
+  - Advanced Penetration Testing (Cybrary - Course)
+  - Practical Network Penetration Testing (TCM - Course)

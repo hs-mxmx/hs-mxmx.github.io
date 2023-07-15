@@ -1,0 +1,8 @@
+{% if site.data.profile.skills %}
+  <p class="title">{{ site.theme_settings.skills_title }}</p>
+  <ul class="skill-list">
+    {% for _ in site.data.profile.skills %}
+    <li class="skill">{{ _.skill }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
